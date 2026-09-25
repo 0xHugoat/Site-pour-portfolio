@@ -1,1 +1,19 @@
 @import "tailwindcss";
+
+@font-face {
+  font-family: "Anton";
+  src: url("../font/Anton-Regular.woff2") format("woff2");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Nohemi";
+  src: url("../font/Nohemi-Regular-BF6a4e01a26b011.ttf") format("truetype");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Nohemi";
+  src: url("../font/Nohemi-Medium-BF6a4e01a26b011.ttf") format("truetype");
+  font-weight: 500;
+}
